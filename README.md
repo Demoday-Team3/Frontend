@@ -50,9 +50,9 @@
 
 </br></br>
 
-## 메인 페이지(그룹)
+## 📌 메인 페이지(그룹)
 [![2024-08-22-225517.png](https://i.postimg.cc/xCTbR4VW/2024-08-22-225517.png)](https://postimg.cc/rd3mygmJ)
 
-## 그룹 추가
+## 📌 그룹 추가
 [![2024-08-30-205751.png](https://i.postimg.cc/xCwN2TzS/2024-08-30-205751.png)](https://postimg.cc/Hctk0mzS)
 
