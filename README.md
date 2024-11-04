@@ -2,7 +2,7 @@
 24-여름방학에 진행한 토이 프로젝트입니다. 
 
 
-
+</br></br>
 
 ## 📌 기능
 
@@ -34,21 +34,21 @@
   - 개별 추억 공감 1만 개 달성
 
 
- 
+</br></br> 
     
  
 ## 📌 기술 스택
-|                |                                                        |
-|----------------|--------------------------------------------------------|
-| Node.js        | <img src="https://nodejs.org/static/images/logo.svg" width="50" />     |
-| Express.js     | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" /> |
-| MySQL          | <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50" /> |
-| JavaScript     | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" /> |
-| React          | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" /> |
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5ec28472-f41a-4d8b-88dd-ee837560c72d" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/96073016-d073-4cdc-97e6-17774b2b90fd" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/f5bae7c1-179a-4379-84a6-8d73fbcc762c" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/8efccd1a-c30e-425b-8815-5c142696a5f2" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/8e24aef8-c9d0-4e7d-99c8-9c2c3e776041" width="200" /></td>
+  </tr>
+</table>
 
-
-
-
+</br></br>
 
 ## 메인 페이지(그룹)
 [![2024-08-22-225517.png](https://i.postimg.cc/xCTbR4VW/2024-08-22-225517.png)](https://postimg.cc/rd3mygmJ)
